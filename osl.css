@@ -1,0 +1,78 @@
+.xmLoginForm {
+	clear: both;
+}
+.xmLoginIconSet { 
+    background:url(osl.png) no-repeat transparent; 
+	width: 32px;
+	height: 32px;
+	line-height: 32px;
+	padding-right: 5px;
+	float: left;
+	cursor:pointer;
+} 
+.icon_qq{
+	background-position: 0px 0px;
+}
+.icon_sina{
+	background-position: 0px -42px;
+}
+.icon_taobao{
+	background-position: 0px -84px;
+}
+.icon_baidu{
+	background-position: 0px -126px;
+}
+.icon_apple { 
+	background-position: 0px -168px;
+}
+.icon_appstore{
+	background-position: 0px -210px;
+}
+.icon_bing{
+	background-position: 0px -252px;
+} 
+.icon_deli{
+	background-position: 0px -294px;
+}
+.icon_evernote{
+	background-position: 0px -336px;
+}
+.icon_facebook{
+	background-position: 0px -378px;
+}
+.icon_fr{
+	background-position: 0px -420px;
+}
+.icon_gmail{
+	background-position: 0px -462px;
+}
+.icon_google{
+	background-position: 0px -504px;
+}
+.icon_in{
+	background-position: 0px -546px;
+}
+.icon_myspace{
+	background-position: 0px -588px;
+}
+.icon_rss{
+	background-position: 0px -630px;
+}
+.icon_twitter{
+	background-position: 0px -672px;
+}
+.icon_live{
+	background-position: 0px -714px;
+}
+.icon_wordpress{
+	background-position: 0px -756px;
+}
+.icon_douban{
+	background-position: 0px -798px;
+}
+.icon_renren{
+	background-position: 0px -840px;
+}
+.icon_kaixin{
+	background-position: 0px -882px;
+}
